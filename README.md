@@ -1,7 +1,7 @@
 ![Banner](https://i.ibb.co/S0p6r43/maryam-sobhy-banner.png)
 
 # Hi there 👋, I'm Maryam Sobhy
-💻 **Backend Developer** (PHP/Laravel) | Frontend with **React & Next.js**  
+💻 **Backend Developer** (PHP/Laravel)**  
 🚀 Experienced in APIs, Cloud Computing, DevOps CI/CD pipelines, and E-Commerce integrations.  
 
 ---
